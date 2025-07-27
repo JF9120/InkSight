@@ -1,5 +1,5 @@
 # InkSight
-#项目运行:
+项目运行:
 1运行builddata.py生成标准图片
 2运行modelapp,py构建数据库
 3运行app.py启动评价系统
