@@ -1,1 +1,9 @@
 # InkSight
+#项目运行:
+1运行builddata.py生成标准图片
+2运行modelapp,py构建数据库
+3运行app.py启动评价系统
+注:测试项目中使用fonts下字体文件生成模版图片分析载入数据库与实际应用有区别并且单字评价，对于实际评分有所影响，仅参考思路
+base下为存放生成的字体图片模版，data下为数据库存放
+目前支持评价载入jpg,pnj格式图片
+在app.py的百度OCR配置自行填入API_key与Select_key
